@@ -1,4 +1,4 @@
-## Reto-1-CV-Challenges
+## Reto-2-CV-Challenges
 
 # Harry Potter invisibility cloak with dynamic background.
 The objective of this project is to create an invisibility cloak that makes the ilusion of disappearing with a moving background.
@@ -21,7 +21,7 @@ Y axis indicate the Saturation values.
 It's recommended to set the Value value in a range from 20 to 255.
 *Example*
 If your cloak is blue, set the H value from 100 - 130 and the V value from 20-255. Try moving the saturation values until you get the range that best fits the saturation of the cloak to make the disappearing more credible. 
-![Reto-1-CV-Challenges](HSVColorMap.png)
+![Reto-2-CV-Challenges](HSVColorMap.png)
 
 If you'd like to disappear yourself completely, set the lowest HSV values to 0 and the upper HSV values to 180, 255 and 255 respectively.
 
